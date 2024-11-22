@@ -1,4 +1,6 @@
-## What typescript does ??
+### <span style="color: #FC8F54;">Typescript</span>
+
+What typescript does ??
 
 - Typescript is a superset of JavaScript which primarily provides optional static typing, classes and interfaces. One of the big benefits is to enable IDEs to provide a richer environment for spotting common errors as you type the code.
 - Typescript is a typed superset of JavaScript that compiles to plain JavaScript. Any browser. Any host. Any OS. Open Source.
